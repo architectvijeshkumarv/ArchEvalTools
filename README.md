@@ -6,6 +6,6 @@ Install pufferfish "https://www.food4rhino.com/en/app/pufferfish" alongside the 
 Whoever is interested to contribute is welcome.
 
 #SiteEval Tool
-This is developed for the site analysis based on two aspects, 1. degree of slope, 2. are available under the slope domains. These two factors are essential to understand the site's development during the evaluation of the site before design development or during. This tool has a site surface division factor to divide the site to get maximum information.
+This is developed for the site analysis based on two aspects, 1. degree of slope, 2. area available under the slope domains. These two factors are essential to understand the site's development during the evaluation of the site before design development or during. This tool has a site surface division factor to divide the site to get maximum information.
 
 I sincerely thank https://discourse.mcneel.com/u/AndersDeleuran for his help always, while my development with GHPython coding.
